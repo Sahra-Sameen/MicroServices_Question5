@@ -1,5 +1,7 @@
-package com.Jpura.employee;
+package com.Jpura.employee.Controller;
 
+import com.Jpura.employee.Entity.EmployeeModel;
+import com.Jpura.employee.Repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

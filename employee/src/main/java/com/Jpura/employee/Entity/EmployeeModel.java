@@ -1,4 +1,4 @@
-package com.Jpura.employee;
+package com.Jpura.employee.Entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;

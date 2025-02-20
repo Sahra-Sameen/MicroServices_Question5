@@ -1,8 +1,7 @@
-package com.Jpura.employee;
+package com.Jpura.employee.Repository;
 
-import com.Jpura.employee.EmployeeModel;
+import com.Jpura.employee.Entity.EmployeeModel;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.stereotype.Repository;
 
 public interface EmployeeRepository extends JpaRepository<EmployeeModel, Long>{
 }
