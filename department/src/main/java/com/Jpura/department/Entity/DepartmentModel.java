@@ -1,4 +1,4 @@
-package com.Jpura.department;
+package com.Jpura.department.Entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;

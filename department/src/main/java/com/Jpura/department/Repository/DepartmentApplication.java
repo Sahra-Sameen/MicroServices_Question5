@@ -1,4 +1,4 @@
-package com.Jpura.department;
+package com.Jpura.department.Repository;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
