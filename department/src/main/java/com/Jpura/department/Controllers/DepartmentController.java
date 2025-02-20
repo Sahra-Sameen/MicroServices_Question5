@@ -1,7 +1,7 @@
 package com.Jpura.department.Controllers;
 
-import com.Jpura.department.DepartmentModel;
-import com.Jpura.department.DepartmentRepository;
+import com.Jpura.department.Repository.DepartmentRepository;
+import com.Jpura.department.Entity.DepartmentModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
